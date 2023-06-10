@@ -1,5 +1,5 @@
 # PowerShell
-## PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+## PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.(<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3">Documentaion</a>)
 - It is object oriented
 - Used for consistent and repeatable tasks
 - It talks to active directory, registry and WMI
